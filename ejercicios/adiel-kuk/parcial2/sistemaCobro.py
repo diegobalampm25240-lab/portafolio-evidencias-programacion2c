@@ -48,7 +48,7 @@ def aplicar_descuento(monto):
 # --- FUNCION 4: Calcular IVA ---
 def calcular_iva(monto):
     """
-    Calcula el impuesto IVA del 16%.
+    Calcula el impuClosedesto IVA del 16%.
 
     Argumentos:
         monto (float): Monto sobre el cual calcular el impuesto.
