@@ -1,3 +1,4 @@
+#Raul Haas Pool
 def formato_nombre(name,lastName):
     """
     Devuelve el nombre de usuario en el formato Apellido, Nombre.
